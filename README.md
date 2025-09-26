@@ -6,7 +6,7 @@ Deployment Guide – ERC20 Token on BNB Smart Chain
 - Some BNB in your wallet (for gas fees)
 - Remix IDE: https://remix.ethereum.org
 
-2. Add BNB Network to MetaMask
+2. Add BNB Network to MetaMask/OKX
 
 Testnet
 Network Name: BNB Smart Chain Testnet
